@@ -28,8 +28,9 @@ Built **survey-weighted logistic regression models** on UNICEF MICS data to quan
 
 ## Currently Exploring
 
-Actuarial science and statistical risk modeling
-Foundations of quantum computing
+Actuarial Science and Statistical Risk Modeling
+
+Foundations of Quantum Computing
 
 ---
 
