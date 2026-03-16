@@ -1,16 +1,38 @@
-## Hi there 👋
+# Research Computing Engineer
 
-<!--
-**Qadriaaliyan/Qadriaaliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on **high-performance computing, scientific computing, and computational research workflows**.
 
-Here are some ideas to get you started:
+Currently working at **Rochester Institute of Technology**, where I optimize HPC systems, automate scientific pipelines, and support large-scale computational research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus Areas
+
+High-performance computing and cluster optimization
+Scientific computing and large-scale CFD simulations (OpenFOAM)
+Automation of computational research workflows
+
+---
+
+## Selected Work
+
+Reduced HPC job queue times by **~80%** through improved SLURM resource allocation.
+
+Built reproducible pipelines for **~80M-cell OpenFOAM simulations**, improving experiment turnaround.
+
+Trained **XGBoost fraud detection model** on **700K transactions** achieving **96% Macro F1** under severe class imbalance.
+
+Built **survey-weighted logistic regression models** on UNICEF MICS data to quantify education inequality risk.
+
+---
+
+## Currently Exploring
+
+Actuarial science and statistical risk modeling
+Foundations of quantum computing
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/qadriaaliyan)
